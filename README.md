@@ -30,3 +30,11 @@ A machine learning project that predicts the quality of wine based on its physic
    ```bash
    git clone https://github.com/yourusername/wine-quality-prediction.git
    cd wine-quality-prediction
+2.Install Dependencies
+
+bash
+pip install -r requirements.txt
+Run the App
+
+bash
+streamlit run app.py

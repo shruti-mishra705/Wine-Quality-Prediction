@@ -38,3 +38,12 @@ Run the App
 
 bash
 streamlit run app.py
+
+
+![image](https://github.com/user-attachments/assets/21c9f94b-d61c-485c-953b-d3a1f996d57a)
+![image](https://github.com/user-attachments/assets/d441c51c-7f15-4bf6-99c2-88a7ed668085)
+![image](https://github.com/user-attachments/assets/4824cb88-5df2-4475-ae60-b20ec0ed70a6)
+![image](https://github.com/user-attachments/assets/35ae5efa-816a-4ce6-b0f2-54a6b4491291)
+
+
+
